@@ -1,0 +1,8 @@
+{
+  "CashMultiplier": 1,
+  "SpeedMultiplier": 1,
+  "DailyRewardMultiplier": 1,
+  "OfflineEfficiency": 0.15,
+  "OfflineMaxHours": 4,
+  "Announcement": ""
+}
